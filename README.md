@@ -28,9 +28,7 @@ Email : varshadurai.0420@gmail.com
 
 ## 💻 Tech Stack
 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML">
-
-
+C C++ CSS3 HTML5 JavaScript
 CSS
 
 Bootstrap
