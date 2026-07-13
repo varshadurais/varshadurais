@@ -1,16 +1,16 @@
 # Hi 👋 I'm Varsha Durai
 
-## 💫 About Me
+## About Me
 
-🎓 III B.Sc Computer Science Student
+I am a passionate B.Sc Computer Science student specializing in Full Stack Web Development, with a strong interest in building innovative, responsive, and user-centric digital solutions. I am currently pursuing my undergraduate degree at Dr. SNS Rajalakshmi College of Arts and Science, where I continuously enhance my knowledge of software development and modern application design.
 
-💻 Aspiring Full Stack Web Developer
+My area of interest focuses on developing web applications that address real-world challenges and deliver meaningful user experiences. I have gained practical experience through academic projects, internships, and hands-on development activities, where I worked on creating interactive websites and application-based solutions.
 
-🌱 Currently Learning Python, JavaScript, Firebase & Modern Web Technologies
+I have developed various projects, including an AI-powered fashion recommendation system that helps users choose suitable outfits based on body shape, skin tone, occasions, and personal preferences. I have also developed an e-commerce furniture website that provides an engaging online shopping experience with organized product displays and smooth user interaction. Additionally, I created Myil Drapes, a traditional dress recommendation platform that assists users in selecting suitable outfits based on their requirements.
 
-🚀 Passionate about building responsive, user-friendly web applications
+Through my development journey, I have explored different stages of application creation, including designing user interfaces, implementing application features, managing data, and improving overall user experience. I am interested in exploring emerging areas such as artificial intelligence, cloud-based applications, and modern web development approaches.
 
-💡 Interested in UI/UX Design, Frontend Development and Cloud Computing
+I am committed to continuous learning and improving my knowledge through practical projects and real-world applications. My goal is to become a skilled Full Stack Web Developer and contribute to the development of impactful software solutions that combine creativity, technology, and problem-solving.
 
 📍 Coimbatore, Tamil Nadu, India
 
@@ -41,7 +41,10 @@ Email : varshadurai.0420@gmail.com
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Microsoft Visual Studio](https://img.shields.io/badge/Microsoft%20Visual%20Studio%202010-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ---
 ## 🌟 Soft Skills
 
