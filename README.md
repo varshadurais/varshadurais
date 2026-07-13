@@ -18,7 +18,7 @@ I am committed to continuous learning and improving my knowledge through practic
 
 ## 🌐 Connect with Me
 
-LinkedIn : linkedin.com/in/varshadurais
+LinkedIn : https://www.linkedin.com/in/varshadurais/
 
 Leetcode : https://leetcode.com/u/varshadurai/
 
