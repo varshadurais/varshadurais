@@ -18,17 +18,18 @@
 
 ## 🌐 Connect with Me
 
-LinkedIn
+LinkedIn : linkedin.com/in/varshadurais
 
-Portfolio
+Leetcode : https://leetcode.com/u/varshadurai/
 
-Email
+Email : varshadurai.0420@gmail.com
 
 ---
 
 ## 💻 Tech Stack
 
-HTML
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML">
+
 
 CSS
 
