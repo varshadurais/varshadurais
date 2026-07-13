@@ -1,0 +1,61 @@
+# Hi 👋 I'm Varsha Durai
+
+## 💫 About Me
+
+🎓 III B.Sc Computer Science Student
+
+💻 Aspiring Full Stack Web Developer
+
+🌱 Currently Learning Python, JavaScript, Firebase & Modern Web Technologies
+
+🚀 Passionate about building responsive, user-friendly web applications
+
+💡 Interested in UI/UX Design, Frontend Development and Cloud Computing
+
+📍 Coimbatore, Tamil Nadu, India
+
+---
+
+## 🌐 Connect with Me
+
+LinkedIn
+
+Portfolio
+
+Email
+
+---
+
+## 💻 Tech Stack
+
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
+
+Python
+
+MySQL
+
+Git
+
+GitHub
+
+VS Code
+
+Firebase
+
+---
+
+## 🚀 Projects
+
+🪑 HOMORA – Furniture Store Website
+
+👗 Myil Drapes – AI Traditional Dress Recommendation Website
+
+🌐 Personal Portfolio Website
+
+📱 Android Login Interface
