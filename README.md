@@ -44,6 +44,7 @@ Email : varshadurai.0420@gmail.com
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Microsoft Visual Studio](https://img.shields.io/badge/Microsoft%20Visual%20Studio%202010-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ---
 ## 🌟 Soft Skills
